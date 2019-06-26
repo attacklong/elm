@@ -1,4 +1,4 @@
-# 高仿饿了么app
+# 高仿饿了么Webapp
 
 ## 介绍
 
@@ -6,15 +6,14 @@
 
 ## 预览地址
 
-+ PC端[点击预览](https://zsqosos.github.io/eapp)
++ PC端[点击预览])
 + 移动端请扫码预览
 
 ![扫一扫查看](http://i4.buimg.com/1949/7ffc239bc35492a6.png)
 
 ## Usage
 
-```
-$ git clone git@github.com:zsqosos/eapp.git
+
 $ cd eapp
 $ npm install
 $ npm run dev
