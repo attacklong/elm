@@ -9,7 +9,7 @@
 
 ```
 
-$ cd eapp
+$ cd elm
 $ npm install
 $ npm run dev
 ```
